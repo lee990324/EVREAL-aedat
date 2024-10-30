@@ -11,3 +11,4 @@ std_msgs
 geometry_msgs
 bagpy
 yolov7detect
+aedat
